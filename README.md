@@ -1,6 +1,10 @@
 ﻿# pwa-02-Indexdb Ajout de biere personnelle
 
- ## rappel 
+## Attendu
+
+https://kferrandonfulbert.github.io/pwa-02-indexdb-add/
+
+## Rappel 
 
 Il s'agit d'une application web simple pour gérer une liste de bières en utilisant HTML, Bootstrap et IndexedDB. L'application permet aux utilisateurs d'ajouter de nouvelles bières à une base de données IndexedDB locale.
 
